@@ -162,6 +162,8 @@ padding-left: 28px;
         
          }
          .side-menu__item{
+            display: flex;
+            align-items: center;
             font-size: 35px;
          }
          .logo{

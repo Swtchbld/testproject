@@ -292,8 +292,7 @@ padding-right: 28px;
 padding-top: 65px;
 &__item{
     display: flex;
-    justify-content: row; 
-    align-items: row; 
+    align-items: center;
 color: $item-menu-color;
 font-family: Poppins;
 font-size: 19px;
@@ -307,9 +306,7 @@ padding-bottom: 44px;
 
 .logo{
     
-    display: flex;
-    justify-content: row; 
-    align-items: row; 
+   
     width: 24px;
 height: 24px;
 
